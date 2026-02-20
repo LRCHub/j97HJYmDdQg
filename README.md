@@ -1,0 +1,55 @@
+# Bad Bunny – Neverita
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:10.64] Yo 'toy puesto pa' ti y tú te me quita'
+[00:14.27] Diablo, qué piquete la chamaquita
+[00:16.97] El corazón lo puso en la neverita
+[00:19.62] Dice que este verano se queda solita
+[00:22.69] Yo 'toy puesto pa' ti y tú te me quita'
+[00:25.94] Diablo, qué piquete la chamaquita
+[00:28.93] El corazón lo puso en la neverita
+[00:31.88] Dice que este verano se queda solita
+[00:49.88] 
+[00:35.12] Pero nunca sola, sola
+[00:37.84] Amores vienen y van, como las ola'
+[00:41.15] El DM explotao', to's le escriben "hola"
+[00:44.13] Una fila 'e cabrone' y yo quiero la cola
+[01:04.13] 
+[00:48.10] Déjame untarte el sunblock pa' que no te queme'
+[00:51.30] Aquí hay mucha' nenas linda' pero tú la tiene'
+[00:54.90] Jugar conmigo, eso te entretiene
+[00:57.56] No sea' mala, me tienes de meme
+[01:00.96] Me siento como el sol, ey, cuando te pones sunblock, ey
+[01:03.94] Baby déjame entrar solo quítame el lock, ey
+[01:06.94] Yo me la pasaría contigo viendo TikTok, je
+[01:09.94] Déjame sorprenderte
+[01:19.44] 
+[01:12.92] Yo 'toy puesto pa' ti y tú te me quita'
+[01:15.88] Diablo, qué piquete la chamaquita
+[01:18.88] El corazón lo puso en la neverita
+[01:21.51] Dice que este verano se queda solita
+[01:24.85] Yo 'toy puesto pa' ti y tú te me quita'
+[01:28.01] Diablo, qué piquete la chamaquita
+[01:31.07] El corazón lo puso en la neverita
+[01:33.86] Dice que este verano se queda solita
+[01:51.86] 
+[02:13.17] Yo 'toy puesto pa' ti y tú te me quita'
+[02:16.37] Diablo, qué piquete la chamaquita
+[02:19.34] El corazón lo puso en la neverita
+[02:22.21] Dice que este verano se queda solita
+[02:25.24] Yo 'toy puesto pa' ti y tú te me quita'
+[02:28.20] Diablo, qué piquete la chamaquita
+[02:31.53] El corazón lo puso en la neverita
+[02:34.13] Dice que este verano se queda solita
+[02:52.13] 
+[02:37.45] Pero nunca sola, sola
+[02:40.44] Amores vienen y van, como las ola'
+[02:43.32] El DM explotao', to's le escriben "hola"
+[02:46.37] Una fila 'e cabrone' y yo quiero la cola
+[02:49.68] Pero nunca sola, sola
+[02:52.37] Amores vienen y van, como las ola'
+[02:55.69] El DM explotao', to's le escriben "hola"
+[02:58.58] Una fila 'e cabrone' y yo quiero la cola
+```
