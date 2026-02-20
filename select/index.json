@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Neverita",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-20T17:25:02.174783Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/01_Neverita_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Neverita\u0000",
+      "artist": "Bad Bunny\u0000",
+      "has_synced": true,
+      "path": "select/02_Neverita\u0000_Bad_Bunny\u0000.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/03_Neverita_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/04_Neverita_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/05_Neverita_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/06_Neverita_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Neverita",
+      "artist": "Angel Cervantes",
+      "has_synced": false,
+      "path": "select/07_La_Neverita_Angel_Cervantes.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neverita (merengue version)",
+      "artist": "Elvis Crespo",
+      "has_synced": true,
+      "path": "select/08_Neverita_(merengue_version)_Elvis_Crespo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Elvis Crespo",
+      "has_synced": true,
+      "path": "select/09_Neverita_Elvis_Crespo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/10_Neverita_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/11_Neverita_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Neverita (Post-Punk Version)",
+      "artist": "Depresión Post-Mortem",
+      "has_synced": true,
+      "path": "select/12_Neverita_(Post-Punk_Version)_Depresión_Post-Mortem.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Grupo Anexxo",
+      "has_synced": true,
+      "path": "select/13_Neverita_Grupo_Anexxo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Grupo Rejego",
+      "has_synced": true,
+      "path": "select/14_Neverita_Grupo_Rejego.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Diego Coss",
+      "has_synced": true,
+      "path": "select/15_Neverita_Diego_Coss.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/16_Neverita_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad Bunny - Neverita (Official Video) | Un Verano Sin Ti",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/17_Bad_Bunny_-_Neverita_(Official_Video)___Un_Verano_Sin_Ti_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bad Bunny - Neverita (Official Video) | Un Verano Sin Ti",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/18_Bad_Bunny_-_Neverita_(Official_Video)___Un_Verano_Sin_Ti_Bad_Bunny.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_Neverita_Bad_Bunny.txt"
+    }
+  ]
+}
